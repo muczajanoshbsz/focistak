@@ -240,5 +240,16 @@
     "osszes_gol": 400,
     "aranylabdak_szama": 0,
     "kep_url": "https://res.cloudinary.com/daxlooj15/image/upload/v1775026141/K%C3%A9pkiv%C3%A1g%C3%A1s_vj2xy5.png"
+  },
+  {
+    "id": 24,
+    "nev": "Adolf Hitler",
+    "nemzetiseg": "Német",
+    "pozicio": "Fajgyűlölő",
+    "szuletesi_ev": 1889,
+    "valogatott_merkozesek": 0,
+    "osszes_gol": 0,
+    "aranylabdak_szama": 0,
+    "kep_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3vsSsELfdZCnUbw0kp29UTiUI48motflgviYdnKKX_Vd5wZfRngvWc7xXEnfGW5zo2aJpFccFBOQLltp3iM6RcuSDcYquGiPYZbnz5_5uQ&s=10"
   }
 ]
